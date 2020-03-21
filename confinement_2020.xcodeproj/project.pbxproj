@@ -16,6 +16,7 @@
 		7A3595EF242654E400BEB1B5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7A3595EE242654E400BEB1B5 /* Assets.xcassets */; };
 		7A3595F2242654E400BEB1B5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7A3595F0242654E400BEB1B5 /* LaunchScreen.storyboard */; };
 		7A3595FA242655D800BEB1B5 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 7A3595F9242655D800BEB1B5 /* .gitignore */; };
+		7A3595FC2426561500BEB1B5 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 7A3595FB2426561500BEB1B5 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		7A3595F1242654E400BEB1B5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7A3595F3242654E400BEB1B5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7A3595F9242655D800BEB1B5 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		7A3595FB2426561500BEB1B5 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +74,7 @@
 				7A3595F0242654E400BEB1B5 /* LaunchScreen.storyboard */,
 				7A3595F3242654E400BEB1B5 /* Info.plist */,
 				7A3595F9242655D800BEB1B5 /* .gitignore */,
+				7A3595FB2426561500BEB1B5 /* README.md */,
 			);
 			path = confinement_2020;
 			sourceTree = "<group>";
@@ -137,6 +140,7 @@
 				7A3595ED242654E300BEB1B5 /* Main.storyboard in Resources */,
 				7A3595E4242654E300BEB1B5 /* GameScene.sks in Resources */,
 				7A3595EF242654E400BEB1B5 /* Assets.xcassets in Resources */,
+				7A3595FC2426561500BEB1B5 /* README.md in Resources */,
 				7A3595F2242654E400BEB1B5 /* LaunchScreen.storyboard in Resources */,
 				7A3595FA242655D800BEB1B5 /* .gitignore in Resources */,
 				7A3595E6242654E300BEB1B5 /* Actions.sks in Resources */,
