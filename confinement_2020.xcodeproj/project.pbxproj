@@ -64,13 +64,13 @@
 		7A3595E0242654E300BEB1B5 /* confinement_2020 */ = {
 			isa = PBXGroup;
 			children = (
-				7A3595E1242654E300BEB1B5 /* AppDelegate.swift */,
+				7A3595EE242654E400BEB1B5 /* Assets.xcassets */,
 				7A3595E3242654E300BEB1B5 /* GameScene.sks */,
 				7A3595E5242654E300BEB1B5 /* Actions.sks */,
+				7A3595E1242654E300BEB1B5 /* AppDelegate.swift */,
 				7A3595E7242654E300BEB1B5 /* GameScene.swift */,
 				7A3595E9242654E300BEB1B5 /* GameViewController.swift */,
 				7A3595EB242654E300BEB1B5 /* Main.storyboard */,
-				7A3595EE242654E400BEB1B5 /* Assets.xcassets */,
 				7A3595F0242654E400BEB1B5 /* LaunchScreen.storyboard */,
 				7A3595F3242654E400BEB1B5 /* Info.plist */,
 				7A3595F9242655D800BEB1B5 /* .gitignore */,
